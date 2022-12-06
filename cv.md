@@ -3,9 +3,8 @@ Klim Kaluzhny
 
 Contact information
 ---------------
-E-mail: kkaliuzhny@gmail.com
-
-
+GitHub: @kkaliuzhny
+E-mail: kkaliuzhny@gmail.com  
 Discord: Klim Kaluzhny(@kkaliuzhny)
 
 Briefly About Myself
@@ -17,6 +16,9 @@ Skills
 * C++
 * C#
 * Pyhton
+* Git
+* Mathcad
+* Matlab
 
 Code example
 ------
