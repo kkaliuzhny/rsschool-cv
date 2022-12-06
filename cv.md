@@ -3,7 +3,7 @@ Klim Kaluzhny
 
 Contact information
 ---------------
-GitHub: @kkaliuzhny
+GitHub: @kkaliuzhny  
 E-mail: kkaliuzhny@gmail.com  
 Discord: Klim Kaluzhny(@kkaliuzhny)
 
